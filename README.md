@@ -1,14 +1,9 @@
 # EplSite
-Web portal and framework developed in Perl
+Web portal and framework developed in Perl for ETL pipelines and data migration processing.
 
-I had this project before in sourceforge:
+Data extraction, transformation, validation and load in a very fast way.
 
-https://sourceforge.net/projects/eplsiteetl/
-
-
-EplSite ETL is a tool to do easy the data migrations, doing extraction, transformation, validation and load in a very fast way.
-
-It was built by people involved in data migrations so, it contains the necessary to do the migration(Extract Transformation, validation and load) and do it well.
+It was built by people involved in data migrations so, it contains the necessary to do the migration(Extract Transformation, validation and load).
 
 # Features: 
 - Easy to use.
